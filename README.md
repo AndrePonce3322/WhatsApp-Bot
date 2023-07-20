@@ -1,6 +1,6 @@
 ## WhatsApp Bot GPT - A bot for WhatsApp
 
-## How to start?
+### How to start?
 
 ### Step 1
 <p>
