@@ -1,0 +1,26 @@
+{
+  "name": "javascript-projects",
+  "version": "1.0.0",
+  "description": "Aquí estarán todos los proyectos de javascript que haré pero los proyectos simples, claro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "fix": "eslint . --fix",
+    "start": "nodemon ./src/index.js"
+  },
+  "author": "Andre Ponce",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "nodemon": "2.0.22",
+    "openai": "^3.3.0",
+    "progress": "^2.0.3",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.21.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "standard": "^17.1.0"
+  }
+}
