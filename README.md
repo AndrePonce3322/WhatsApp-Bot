@@ -1,4 +1,4 @@
-##﻿ WhatsApp Bot GPT
+## WhatsApp Bot GPT
 
 ### How to start?
 
